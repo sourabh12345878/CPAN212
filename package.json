@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sourabh12345878/CPAN212#readme",
   "dependencies": {
     "dayjs": "^1.11.13",
+    "express": "^5.1.0",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
